@@ -1,0 +1,14 @@
+[project]
+name = "08-streamlit-and-fastapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.139.0",
+    "joblib>=1.5.3",
+    "pandas>=3.0.3",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.0",
+    "streamlit>=1.59.0",
+]
