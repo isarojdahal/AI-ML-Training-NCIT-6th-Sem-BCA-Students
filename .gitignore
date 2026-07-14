@@ -146,3 +146,17 @@ Thumbs.db
 
 
 test
+
+# Machine Learning Models & Data Artifacts
+*.keras
+*.h5
+*.pkl
+*.pb
+*.onnx
+*.pt
+*.pth
+
+# Package Manager Lock Files (if not wanted in git)
+# uv.lock
+# poetry.lock
+# pipfile.lock
