@@ -1,0 +1,13 @@
+[project]
+name = "13-hugging-face"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "sacremoses>=0.1.1",
+    "sentencepiece>=0.2.2",
+    "torch>=2.13.0",
+    "transformers>=5.13.1",
+]
